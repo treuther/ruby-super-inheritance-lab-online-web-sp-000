@@ -1,11 +1,11 @@
 class Student   #parent (super) class
 
   def hello
-    "Hello there! I'm so excited to learn stuff."
+    puts "Hello there! I'm so excited to learn stuff."
   end
 
   def raise_hand
-    "Pick me!"
+    puts "Pick me!"
   end
 
 end
