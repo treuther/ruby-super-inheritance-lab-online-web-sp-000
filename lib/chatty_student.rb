@@ -5,7 +5,8 @@ def hello
 end
 
 def raise_hand
-  "Pick me!"
+  super
+  
 end
 
 end
