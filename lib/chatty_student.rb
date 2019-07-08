@@ -7,7 +7,7 @@ end
 
 def raise_hand
   super
-  
+
 end
 
 end
